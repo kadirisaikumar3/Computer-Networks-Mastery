@@ -1,0 +1,36 @@
+# VS Code
+.vscode/
+
+# Node Modules
+node_modules/
+
+# Logs
+*.log
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
+
+# Environment Files
+.env
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Python
+__pycache__/
+*.pyc
+
+# Java
+*.class
+
+# IntelliJ
+.idea/
+
+# Eclipse
+.project
+.classpath
+.settings/
