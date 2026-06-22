@@ -1,269 +1,288 @@
-<p align="center">
-  <img src="Images/banner.png" alt="Computer Networks Mastery Banner" width="100%">
-</p>
-
 # 🌐 Computer Networks Mastery
 
-> **A Complete Computer Networks Interview Preparation Repository for Software Engineering Interviews & Product-Based Companies**
+> A complete Computer Networks repository for Software Engineering interviews, Google SDE preparation, placements, and quick revision.
 
-![MIT License](https://img.shields.io/badge/License-MIT-green)
-![Markdown](https://img.shields.io/badge/Markdown-Docs-blue)
-![Last Commit](https://img.shields.io/github/last-commit/kadirisaikumar3/Computer-Networks-Mastery)
-![Repo Size](https://img.shields.io/github/repo-size/kadirisaikumar3/Computer-Networks-Mastery)
-![Stars](https://img.shields.io/github/stars/kadirisaikumar3/Computer-Networks-Mastery)
-![Forks](https://img.shields.io/github/forks/kadirisaikumar3/Computer-Networks-Mastery)
+![GitHub last commit](https://img.shields.io/github/last-commit/kadirisaikumar3/Computer-Networks-Mastery)
 
+![GitHub repo size](https://img.shields.io/github/repo-size/kadirisaikumar3/Computer-Networks-Mastery)
+
+![GitHub stars](https://img.shields.io/github/stars/kadirisaikumar3/Computer-Networks-Mastery?style=social)
+
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+
+![Google Interview Ready](https://img.shields.io/badge/Google-Interview%20Ready-success)
+
+![Beginner Friendly](https://img.shields.io/badge/Beginner-Friendly-brightgreen)
+
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-success)
 ---
 
 # 📖 About
 
-This repository contains **complete Computer Networks concepts** required for Software Engineering interviews at **top product-based companies**.
+This repository contains everything required to master **Computer Networks** from basics to interview level.
 
-It includes:
+It is specially designed for:
 
-- 📘 Beginner-friendly explanations
-- 🌍 Real-world examples
-- 🖼 Professional diagrams
-- 💻 Hands-on labs
-- ❓ Interview questions
-- ⚡ Quick revision notes
-- 🧠 Mind maps
-- 🎯 Google interview preparation
-
-It is designed for:
-
-- Software Engineering Interviews
+- Google SDE
+- Amazon SDE
+- Microsoft
+- Atlassian
+- Adobe
+- Walmart
 - Product-Based Companies
-- Computer Science Students
-- College Placement Preparation
-- Networking Enthusiasts
-- Technical Interview Preparation
-- Self Learning & Revision
+- College Placements
 
 ---
 
-# ✨ Repository Features
+# 📊 Repository Statistics
 
-- ✅ Beginner Friendly
-- ✅ Google Interview Focused
-- ✅ Real-World Examples
-- ✅ Hands-on Labs
-- ✅ Professional Diagrams
-- ✅ Interview Questions
-- ✅ Quick Revision Notes
-- ✅ FAQs
-- ✅ Mind Maps
-- ✅ Regularly Updated
-
----
-
-# 📚 Table of Contents
-
-- [📖 About](#-about)
-- [✨ Repository Features](#-repository-features)
-- [📂 Topics Covered](#-topics-covered)
-- [📁 Repository Structure](#-repository-structure)
-- [📈 Progress](#-progress)
-- [📊 Repository Statistics](#-repository-statistics)
-- [🛣 Learning Roadmap](#-learning-roadmap)
-- [💻 Hands-on Labs](#-hands-on-labs)
-- [🎯 Interview Preparation](#-interview-preparation)
-- [🚀 Future Improvements](#-future-improvements)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
+| Metric | Count |
+|---------|------:|
+| 📁 Chapters | 20 |
+| 📄 Markdown Files | 250+ |
+| ❓ Interview Questions | 500+ |
+| 🧪 Hands-on Labs | 40+ |
+| 🌍 Real-World Examples | 100+ |
+| 📋 Cheat Sheets | 20 |
+| 🧠 Mind Maps | 20 |
+| ⚡ Quick Revision Notes | 20 |
+| ❌ Common Mistakes | 20 |
+| 💬 FAQs | 20 |
 
 ---
 
-## ✅ Completed
+# 📌 Repository Status
 
-- Introduction
-- OSI Model
-- TCP/IP Model
-- IP Addressing
-- Subnetting
-- MAC Address
-- ARP
+| Status | Value |
+|--------|-------|
+| 📚 Chapters | ✅ Complete |
+| 🛠️ Actively Maintained | ✅ Yes |
+| 🎯 Interview Ready | ✅ Yes |
+| 🌍 Open Source | ✅ Yes |
+| 📖 Beginner Friendly | ✅ Yes |
 
-## 🚧 Coming Soon
+---
 
-- DNS
-- DHCP
-- HTTP / HTTPS
-- TCP
-- UDP
-- Socket Programming
-- Routing
-- Switches & Routers
-- NAT
-- Firewalls
-- Network Security
-- Interview Questions
-- Cheat Sheets
+# 📚 Repository Structure
 
-# 📁 Repository Structure
+| Chapter | Topic |
+|----------|-------|
+| 01 | Introduction |
+| 02 | OSI Model |
+| 03 | TCP/IP Model |
+| 04 | IP Addressing |
+| 05 | Subnetting |
+| 06 | MAC Address |
+| 07 | ARP |
+| 08 | DNS |
+| 09 | DHCP |
+| 10 | HTTP & HTTPS |
+| 11 | TCP |
+| 12 | UDP |
+| 13 | Routing |
+| 14 | Switching |
+| 15 | Network Security |
+| 16 | Firewalls |
+| 17 | VPN |
+| 18 | Network Troubleshooting |
+| 19 | Network Commands |
+| 20 | Computer Networks Interview Revision |
 
-```text
+---
+
+# 🎯 Features
+
+✅ Beginner Friendly
+
+✅ Google Interview Focused
+
+✅ Real World Examples
+
+✅ Hands-on Labs
+
+✅ Interview Questions
+
+✅ Quick Revision Notes
+
+✅ Cheat Sheets
+
+✅ Mind Maps
+
+✅ Common Mistakes
+
+✅ FAQs
+
+---
+
+# 🚀 Learning Roadmap
+
+```
+Introduction
+
+↓
+
+OSI Model
+
+↓
+
+TCP/IP Model
+
+↓
+
+IP Addressing
+
+↓
+
+Subnetting
+
+↓
+
+MAC Address
+
+↓
+
+ARP
+
+↓
+
+DNS
+
+↓
+
+DHCP
+
+↓
+
+HTTP/HTTPS
+
+↓
+
+TCP
+
+↓
+
+UDP
+
+↓
+
+Routing
+
+↓
+
+Switching
+
+↓
+
+Security
+
+↓
+
+Firewall
+
+↓
+
+VPN
+
+↓
+
+Troubleshooting
+
+↓
+
+Network Commands
+
+↓
+
+Interview Revision
+```
+
+---
+
+# 📂 Folder Structure
+
+```
 Computer-Networks-Mastery
-│
-├── README.md
-├── LICENSE
-├── CONTRIBUTING.md
-├── CHANGELOG.md
-├── .gitignore
 │
 ├── 01-Introduction
 ├── 02-OSI-Model
 ├── 03-TCP-IP-Model
 ├── 04-IP-Addressing
 ├── 05-Subnetting
-├── 06-MAC-Address
-├── 07-ARP
-├── 08-DNS
-├── 09-DHCP
-├── 10-HTTP-HTTPS
-├── 11-TCP
-├── 12-UDP
-├── 13-Socket
-├── 14-Routing
-├── 15-Switches-and-Routers
-├── 16-NAT
-├── 17-Firewalls
-├── 18-Network-Security
-├── 19-Interview-Questions
-├── 20-Cheat-Sheets
-└── Images
+├── ...
+├── 20-Computer-Networks-Interview-Revision
 ```
 
 ---
 
-# 📈 Progress
+# 💻 Who is this Repository For?
 
-## ✅ Completed
-
-- [x] Introduction
-- [x] OSI Model
-- [x] TCP/IP Model
-- [x] IP Addressing
-- [x] Subnetting
-- [x] MAC Address
-- [x] ARP
-- [x] DNS
-- [x] DHCP
-- [x] HTTP / HTTPS
-- [x] TCP
-- [x] UDP
-- [x] Socket Programming
-- [x] Routing
-- [x] Switches & Routers
-- [x] NAT
-- [x] Firewalls
-- [x] Network Security
-- [x] Network Troubleshooting
-- [x] Computer Networks Interview Revision
+- Students
+- Freshers
+- Software Engineers
+- Placement Preparation
+- Google Interview Preparation
+- Computer Science Learners
 
 ---
 
-# 📊 Repository Statistics
+# ⭐ Interview Preparation
 
-| Item | Count |
-|------|------:|
-| 📚 Chapters | 20 |
-| 📝 Markdown Files | 250+ |
-| 🖼 Professional Diagrams | 100+ |
-| ❓ Interview Questions | 500+ |
-| 💻 Hands-on Labs | 40+ |
-| 📅 Last Updated | June 2026 |
+Every chapter includes:
 
----
-
-# 🛣 Learning Roadmap
-
-```
-Basics
-   │
-   ▼
-OSI Model
-   │
-   ▼
-TCP/IP Model
-   │
-   ▼
-IP Addressing
-   │
-   ▼
-Subnetting
-   │
-   ▼
-MAC Address
-   │
-   ▼
-ARP
-   │
-   ▼
-DNS
-   │
-   ▼
-DHCP
-   │
-   ▼
-HTTP / HTTPS
-   │
-   ▼
-TCP
-   │
-   ▼
-UDP
-   │
-   ▼
-Routing
-   │
-   ▼
-Network Security
-```
+- Theory
+- Diagrams
+- Examples
+- Labs
+- Google Interview Questions
+- Cheat Sheet
+- Mind Map
 
 ---
 
-# 💻 Hands-on Labs
+# 📈 Skills Covered
 
-This repository includes practical networking exercises such as:
-
-- IP Address Calculations
-- Subnetting Problems
-- CIDR Practice
-- Packet Flow Analysis
-- TCP Handshake
-- DNS Resolution
-- ARP Working
-- Routing Practice
-- Wireshark Exercises (Coming Soon)
-
----
-
-# 🎯 Interview Preparation
-
-Perfect for preparing for:
-
-- Google
-- Amazon
-- Microsoft
-- Meta
-- Adobe
-- Cisco
-- Oracle
-- Atlassian
-- Product-Based Companies
+- Networking Fundamentals
+- OSI Model
+- TCP/IP
+- IPv4 & IPv6
+- Routing
+- Switching
+- DNS
+- DHCP
+- HTTP
+- HTTPS
+- TCP
+- UDP
+- Firewalls
+- VPN
+- Troubleshooting
 
 ---
 
-# 🚀 Future Improvements
 
-- Packet Tracer Labs
-- Wireshark Tutorials
-- Interview Cheat Sheets
-- Network Troubleshooting Guide
-- IPv6 Deep Dive
-- Cloud Networking Basics
-- Linux Networking Commands
+# 🚀 How to Use
+
+1. Start with **Chapter 1 – Introduction**.
+2. Study every chapter sequentially.
+3. Complete the Hands-on Labs.
+4. Solve the Interview Questions.
+5. Revise using the Cheat Sheets and Mind Maps.
+6. Use the Quick Revision notes before interviews.
+
+---
+
+# 🌟 Repository Highlights
+
+- 📘 20 Structured Chapters
+- 🎯 Google Interview Focused
+- 🧪 Practical Hands-on Labs
+- 🌍 Real-World Examples
+- ❓ 500+ Interview Questions
+- 📋 Cheat Sheets
+- 🧠 Mind Maps
+- ⚡ Quick Revision Notes
+- 💬 Frequently Asked Questions
+- ❌ Common Mistakes
 
 ---
 
@@ -271,34 +290,48 @@ Perfect for preparing for:
 
 Contributions are welcome!
 
-Please read the **CONTRIBUTING.md** file before submitting a pull request.
-
----
-
-# 📄 License
-
-This project is licensed under the **MIT License**.
-
-See the **LICENSE** file for details.
+Feel free to open issues or submit pull requests to improve the repository.
 
 ---
 
 # ⭐ Support
 
-If you found this repository useful:
+If you found this repository helpful:
 
-⭐ Star this repository
+- ⭐ Star this repository
+- 🍴 Fork it
+- 📢 Share it with others
+- 💡 Suggest improvements
 
-🍴 Fork it
-
-📢 Share it with your friends
+Your support motivates me to create more high-quality educational repositories.
 
 ---
 
-<p align="center">
+# 👨‍💻 Author
 
-Made with ❤️ by **Saikumar Kadiri**
+**Saikumar Kadiri**
 
-Happy Learning! 🚀
+- GitHub: https://github.com/kadirisaikumar3
+- LinkedIn: https://www.linkedin.com/in/saikumar-kadiri/
 
-</p>
+---
+
+
+
+
+# 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+# ⭐ Support the Project
+
+If you found this repository helpful:
+
+- ⭐ Star this repository
+- 🍴 Fork it
+- 📢 Share it with others
+- 💡 Suggest improvements
+
+Thank you for your support! 🚀

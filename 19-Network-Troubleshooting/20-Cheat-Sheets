@@ -1,0 +1,153 @@
+# Network Commands Cheat Sheet
+
+## Connectivity
+
+| Command | Purpose |
+|----------|----------|
+| ping | Test connectivity |
+| tracert / traceroute | Show packet path |
+| pathping | Ping + Traceroute |
+
+---
+
+## IP Configuration
+
+Windows
+
+ipconfig
+
+ipconfig /all
+
+ipconfig /release
+
+ipconfig /renew
+
+ipconfig /flushdns
+
+Linux
+
+ifconfig
+
+ip addr
+
+---
+
+## DNS
+
+nslookup google.com
+
+dig google.com
+
+host google.com
+
+---
+
+## ARP
+
+arp -a
+
+Displays ARP Cache.
+
+---
+
+## Routing
+
+route print
+
+route -n
+
+ip route
+
+---
+
+## Active Connections
+
+netstat -an
+
+ss -tuln
+
+---
+
+## MAC Address
+
+getmac
+
+ip link
+
+---
+
+## Interface Information
+
+ipconfig
+
+ifconfig
+
+ip addr
+
+---
+
+## Port Testing
+
+telnet host port
+
+curl
+
+nc (Netcat)
+
+---
+
+## Remote Login
+
+ssh user@host
+
+---
+
+## Useful Google Interview Commands
+
+ping
+
+traceroute
+
+ipconfig
+
+ifconfig
+
+netstat
+
+nslookup
+
+dig
+
+arp
+
+route
+
+ssh
+
+curl
+
+telnet
+
+---
+
+## Quick Revision
+
+✔ Ping → Connectivity
+
+✔ Traceroute → Packet Path
+
+✔ Netstat → Active Connections
+
+✔ nslookup → DNS Lookup
+
+✔ arp → ARP Cache
+
+✔ route → Routing Table
+
+✔ curl → HTTP Request
+
+✔ ssh → Secure Remote Login
+
+✔ ipconfig → Windows Network Configuration
+
+✔ ifconfig → Linux Network Configuration

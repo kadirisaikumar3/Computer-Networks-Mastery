@@ -1,0 +1,170 @@
+# Network Commands - Interview Questions
+
+## Basic Questions
+
+### 1. What is the purpose of the ping command?
+
+Answer:
+Used to test connectivity between two devices using ICMP Echo Request and Echo Reply.
+
+---
+
+### 2. What is traceroute (tracert)?
+
+Answer:
+Displays the path packets travel from source to destination.
+
+---
+
+### 3. Difference between ping and traceroute?
+
+| Ping | Traceroute |
+|-------|------------|
+| Checks connectivity | Shows packet path |
+| Uses ICMP | Uses TTL values |
+| Does not show routers | Shows every hop |
+
+---
+
+### 4. What does ipconfig do?
+
+Answer:
+Displays Windows IP configuration.
+
+Useful options:
+
+ipconfig
+
+ipconfig /all
+
+ipconfig /release
+
+ipconfig /renew
+
+ipconfig /flushdns
+
+---
+
+### 5. What does ifconfig do?
+
+Answer:
+Displays and configures network interfaces in Linux.
+
+---
+
+### 6. What is netstat?
+
+Answer:
+Displays active TCP/UDP connections and listening ports.
+
+Example:
+
+netstat -an
+
+---
+
+### 7. What is nslookup?
+
+Answer:
+Queries DNS servers to resolve domain names.
+
+Example:
+
+nslookup google.com
+
+---
+
+### 8. What is dig?
+
+Answer:
+Advanced DNS lookup command available on Linux.
+
+---
+
+### 9. Difference between nslookup and dig?
+
+Answer:
+
+dig provides detailed DNS information.
+
+nslookup is simpler.
+
+---
+
+### 10. What is arp command?
+
+Answer:
+Displays ARP cache.
+
+Example:
+
+arp -a
+
+---
+
+### 11. What does route print show?
+
+Answer:
+Displays the routing table.
+
+---
+
+### 12. What is pathping?
+
+Answer:
+Combination of ping and tracert.
+
+---
+
+### 13. What is telnet used for?
+
+Answer:
+Tests connectivity to a TCP port.
+
+Example:
+
+telnet google.com 80
+
+---
+
+### 14. What is curl?
+
+Answer:
+Transfers data using HTTP, HTTPS, FTP etc.
+
+Example:
+
+curl https://example.com
+
+---
+
+### 15. What is ssh?
+
+Answer:
+Secure remote login protocol.
+
+Default Port: 22
+
+---
+
+## Google Interview Questions
+
+✔ Explain how ping works internally.
+
+✔ Why does traceroute use TTL?
+
+✔ Difference between ping, traceroute and pathping?
+
+✔ Why can ping fail while HTTP still works?
+
+✔ Explain ARP cache.
+
+✔ Explain routing table.
+
+✔ Which commands are used for network troubleshooting?
+
+✔ Explain netstat output.
+
+✔ Explain DNS troubleshooting.
+
+✔ Which commands do you use daily as an SDE?
