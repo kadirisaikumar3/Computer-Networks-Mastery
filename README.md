@@ -74,8 +74,6 @@ It is designed for:
 
 ---
 
-# 📂 Topics Covered
-
 ## ✅ Completed
 
 - Introduction
@@ -84,10 +82,10 @@ It is designed for:
 - IP Addressing
 - Subnetting
 - MAC Address
+- ARP
 
 ## 🚧 Coming Soon
 
-- ARP
 - DNS
 - DHCP
 - HTTP / HTTPS
@@ -101,8 +99,6 @@ It is designed for:
 - Network Security
 - Interview Questions
 - Cheat Sheets
-
----
 
 # 📁 Repository Structure
 
@@ -153,7 +149,7 @@ Computer-Networks-Mastery
 
 ## 🚧 Upcoming
 
-- [ ] ARP
+- [x] ARP
 - [ ] DNS
 - [ ] DHCP
 - [ ] HTTP / HTTPS
@@ -167,7 +163,6 @@ Computer-Networks-Mastery
 - [ ] Network Security
 - [ ] Interview Questions
 - [ ] Cheat Sheets
-
 ---
 
 # 📊 Repository Statistics
