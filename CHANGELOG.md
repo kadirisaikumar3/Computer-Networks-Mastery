@@ -3,6 +3,11 @@
 All notable changes to this project will be documented here.
 
 ---
+## Version 1.4.0
+
+### Added
+
+- HTTP / HTTPS
 
 ## Version 1.3.0
 

@@ -148,11 +148,11 @@ Computer-Networks-Mastery
 - [x] MAC Address
 - [x] ARP
 - [x] DNS
+- [x] DHCP
+- [x] HTTP / HTTPS
 
 ## 🚧 Upcoming
 
-- [ ] DHCP
-- [ ] HTTP / HTTPS
 - [ ] TCP
 - [ ] UDP
 - [ ] Socket Programming
@@ -163,6 +163,7 @@ Computer-Networks-Mastery
 - [ ] Network Security
 - [ ] Interview Questions
 - [ ] Cheat Sheets
+
 ---
 
 # 📊 Repository Statistics
