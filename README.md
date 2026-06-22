@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Images/banner.png" alt="Computer Networks Mastery Banner" width="100%">
+</p>
+
 # 🌐 Computer Networks Mastery
 
 > **A Complete Computer Networks Interview Preparation Repository for Product-Based Companies**
