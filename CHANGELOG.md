@@ -1,7 +1,12 @@
 # Changelog
 
 All notable changes to this project will be documented here.
+---
+## Version 1.5.0
 
+### Added
+
+- TCP (Transmission Control Protocol)
 ---
 ## Version 1.4.0
 
