@@ -4,6 +4,14 @@ All notable changes to this project will be documented here.
 
 ---
 
+## Version 1.3.0
+
+### Added
+
+- DHCP (Dynamic Host Configuration Protocol)
+
+---
+
 ## Version 1.2.0
 
 ### Added
@@ -35,7 +43,6 @@ All notable changes to this project will be documented here.
 
 ## Upcoming
 
-- DHCP
 - HTTP/HTTPS
 - TCP
 - UDP
