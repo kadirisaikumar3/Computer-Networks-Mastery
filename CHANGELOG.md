@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented here.
 
+## Version 2.3.0
+
+### Added
+
+- Network Troubleshooting
+---
 ## Version 2.2.0
 
 ### Added

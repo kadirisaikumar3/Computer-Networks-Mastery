@@ -158,10 +158,10 @@ Computer-Networks-Mastery
 - [x] NAT
 - [x] Firewalls
 - [x] Network Security
+- [x] Network Troubleshooting
 
 ## 🚧 Upcoming
 
-- [ ] Interview Questions
 - [ ] Cheat Sheets
 
 ---
