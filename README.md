@@ -146,11 +146,11 @@ Computer-Networks-Mastery
 - [x] IP Addressing
 - [x] Subnetting
 - [x] MAC Address
+- [x] ARP
+- [x] DNS
 
 ## 🚧 Upcoming
 
-- [x] ARP
-- [ ] DNS
 - [ ] DHCP
 - [ ] HTTP / HTTPS
 - [ ] TCP

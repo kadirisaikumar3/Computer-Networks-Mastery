@@ -4,6 +4,14 @@ All notable changes to this project will be documented here.
 
 ---
 
+## Version 1.2.0
+
+### Added
+
+- DNS (Domain Name System)
+
+---
+
 ## Version 1.1.0
 
 ### Added
@@ -27,13 +35,15 @@ All notable changes to this project will be documented here.
 
 ## Upcoming
 
-- DNS
 - DHCP
 - HTTP/HTTPS
 - TCP
 - UDP
 - Socket Programming
 - Routing
+- Switches & Routers
 - NAT
 - Firewalls
 - Network Security
+- Interview Questions
+- Cheat Sheets

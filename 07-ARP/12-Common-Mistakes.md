@@ -258,4 +258,4 @@ Communication Starts
 
 ✅ Gratuitous ARP detects duplicate IPs.
 
-✅ Proxy ARP uses router assistance.
+✅ Proxy ARP uses router assistance.    
