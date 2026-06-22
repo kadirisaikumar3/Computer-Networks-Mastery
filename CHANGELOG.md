@@ -2,10 +2,26 @@
 
 All notable changes to this project will be documented here.
 
+---
 
+## Version 1.9.0
 
+### Added
 
+- Switches & Routers
 
+---
+## Version 1.8.0
+
+### Added
+
+- Routing
+---
+## Version 1.7.0
+
+### Added
+
+- Socket Programming
 ---
 ## Version 1.6.0
 

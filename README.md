@@ -153,11 +153,11 @@ Computer-Networks-Mastery
 - [x] TCP
 - [x] UDP
 - [x] Socket Programming
+- [x] Routing
+- [x] Switches & Routers
 
 ## 🚧 Upcoming
 
-- [ ] Routing
-- [ ] Switches & Routers
 - [ ] NAT
 - [ ] Firewalls
 - [ ] Network Security
