@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented here.
 
+## Version 2.4.0
+
+### Added
+
+- Complete Computer Networks Interview Revision
+---
 ## Version 2.3.0
 
 ### Added

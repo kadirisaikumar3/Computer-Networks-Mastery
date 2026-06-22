@@ -159,10 +159,7 @@ Computer-Networks-Mastery
 - [x] Firewalls
 - [x] Network Security
 - [x] Network Troubleshooting
-
-## 🚧 Upcoming
-
-- [ ] Cheat Sheets
+- [x] Computer Networks Interview Revision
 
 ---
 
