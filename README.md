@@ -150,11 +150,11 @@ Computer-Networks-Mastery
 - [x] DNS
 - [x] DHCP
 - [x] HTTP / HTTPS
+- [x] TCP
+- [x] UDP
 
 ## 🚧 Upcoming
 
-- [ ] TCP
-- [ ] UDP
 - [ ] Socket Programming
 - [ ] Routing
 - [ ] Switches & Routers

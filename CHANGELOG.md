@@ -1,6 +1,17 @@
 # Changelog
 
 All notable changes to this project will be documented here.
+
+
+
+
+
+---
+## Version 1.6.0
+
+### Added
+
+- UDP (User Datagram Protocol)
 ---
 ## Version 1.5.0
 
