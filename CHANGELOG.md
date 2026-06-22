@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented here.
 
+## Version 2.0.0
+
+### Added
+
+- NAT (Network Address Translation)
+
 ---
 
 ## Version 1.9.0

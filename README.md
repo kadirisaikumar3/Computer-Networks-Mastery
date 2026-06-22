@@ -155,10 +155,10 @@ Computer-Networks-Mastery
 - [x] Socket Programming
 - [x] Routing
 - [x] Switches & Routers
+- [x] NAT
 
 ## 🚧 Upcoming
 
-- [ ] NAT
 - [ ] Firewalls
 - [ ] Network Security
 - [ ] Interview Questions
