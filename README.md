@@ -152,10 +152,10 @@ Computer-Networks-Mastery
 - [x] HTTP / HTTPS
 - [x] TCP
 - [x] UDP
+- [x] Socket Programming
 
 ## 🚧 Upcoming
 
-- [ ] Socket Programming
 - [ ] Routing
 - [ ] Switches & Routers
 - [ ] NAT
