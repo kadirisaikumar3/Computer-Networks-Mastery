@@ -157,10 +157,10 @@ Computer-Networks-Mastery
 - [x] Switches & Routers
 - [x] NAT
 - [x] Firewalls
+- [x] Network Security
 
 ## 🚧 Upcoming
 
-- [ ] Network Security
 - [ ] Interview Questions
 - [ ] Cheat Sheets
 

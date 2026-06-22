@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented here.
 
+## Version 2.2.0
+
+### Added
+
+- Network Security
+---
 ## Version 2.1.0
 
 ### Added
