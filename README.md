@@ -67,26 +67,26 @@ It is specially designed for:
 
 | Chapter | Topic |
 |----------|-------|
-| 01 | Introduction |
-| 02 | OSI Model |
-| 03 | TCP/IP Model |
-| 04 | IP Addressing |
-| 05 | Subnetting |
-| 06 | MAC Address |
-| 07 | ARP |
-| 08 | DNS |
-| 09 | DHCP |
-| 10 | HTTP & HTTPS |
-| 11 | TCP |
-| 12 | UDP |
-| 13 | Routing |
-| 14 | Switching |
-| 15 | Network Security |
-| 16 | Firewalls |
-| 17 | VPN |
-| 18 | Network Troubleshooting |
-| 19 | Network Commands |
-| 20 | Computer Networks Interview Revision |
+01 Introduction
+02 OSI Model
+03 TCP/IP Model
+04 IP Addressing
+05 Subnetting
+06 MAC Address
+07 ARP
+08 DNS 
+09 DHCP
+10 TTP & HTTPS
+11 TCP
+12 UDP 
+13 Socket
+14 Routing
+15 Switches and Routers
+16 NAT
+17 Firewalls
+18 Network Security
+19 Network Troubleshooting
+20 Computer Networks Interview Revision
 
 ---
 
@@ -113,57 +113,6 @@ It is specially designed for:
 ✅ FAQs
 
 ---
-
-# 🚀 Learning Roadmap
-
-```
-Introduction
-
-↓
-
-OSI Model
-
-↓
-
-TCP/IP Model
-
-↓
-
-IP Addressing
-
-↓
-
-Subnetting
-
-↓
-
-MAC Address
-
-↓
-
-ARP
-
-↓
-
-DNS
-
-↓
-
-DHCP
-
-↓
-
-HTTP/HTTPS
-
-↓
-
-TCP
-
-↓
-
-UDP
-
-↓
 
 Routing
 
@@ -194,9 +143,6 @@ Network Commands
 ↓
 
 Interview Revision
-```
-
----
 
 # 📂 Folder Structure
 
@@ -256,7 +202,9 @@ Every chapter includes:
 - Firewalls
 - VPN
 - Troubleshooting
-
+-Socket Programming
+-NAT (Network Address Translation)
+-Switches & Routers
 ---
 
 
